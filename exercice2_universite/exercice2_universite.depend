@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1792692497 source:c:\users\user\onedrive\bureau\constructeurs et destructeurs\exercice2_universite\etudiant.cpp
+	"Etudiant.hpp"
+	<iostream>
+	<utility>
+
+1792692497 c:\users\user\onedrive\bureau\constructeurs et destructeurs\exercice2_universite\etudiant.hpp
+	<string>
+	"Universite.hpp"
+
+1792692497 c:\users\user\onedrive\bureau\constructeurs et destructeurs\exercice2_universite\universite.hpp
+	<string>
+
+1792692497 source:c:\users\user\onedrive\bureau\constructeurs et destructeurs\exercice2_universite\main.cpp
+	"Etudiant.hpp"
+	"Universite.hpp"
+
+1792692497 source:c:\users\user\onedrive\bureau\constructeurs et destructeurs\exercice2_universite\universite.cpp
+	"Universite.hpp"
+	<iostream>
+	<utility>
+
